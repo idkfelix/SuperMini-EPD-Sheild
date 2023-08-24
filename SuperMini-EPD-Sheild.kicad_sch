@@ -1583,7 +1583,7 @@
     )
     (pin "1" (uuid b7f68583-9512-4d30-b861-96e396c11c85))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR010") (unit 1)
         )
@@ -1609,7 +1609,7 @@
     (pin "1" (uuid e0d47dc6-575f-4496-a3fe-4275e9d9f834))
     (pin "2" (uuid 21e1aae9-d4ce-4186-9b3a-284edbcece59))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "C8") (unit 1)
         )
@@ -1635,7 +1635,7 @@
     (pin "1" (uuid 0862d35e-8d03-4b5b-b037-c121685d8b23))
     (pin "2" (uuid d2604134-fffc-48ff-9d75-07f7619f93af))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "C6") (unit 1)
         )
@@ -1661,7 +1661,7 @@
     (pin "1" (uuid 9cc19804-ee7e-479e-932a-8c6f46f5308c))
     (pin "2" (uuid 1680746a-69aa-46cc-a1d4-0fd61837335b))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "R2") (unit 1)
         )
@@ -1687,7 +1687,7 @@
     (pin "1" (uuid 9a1b9e3d-bbe3-47f2-9758-c86ed1e1877a))
     (pin "2" (uuid f4174e10-75c7-4b3e-bbb0-f7bf5cd64697))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "D4") (unit 1)
         )
@@ -1713,7 +1713,7 @@
     (pin "1" (uuid e51360dc-e2ce-4210-80d8-e02c080ebcd5))
     (pin "2" (uuid 88880430-916b-44e0-b8af-c04f14403901))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "BT1") (unit 1)
         )
@@ -1739,7 +1739,7 @@
     (pin "1" (uuid 3d0b1be4-96b1-4939-9597-22696959edaa))
     (pin "2" (uuid 5378ce73-2322-4440-a698-c80a03a416c9))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "R1") (unit 1)
         )
@@ -1764,7 +1764,7 @@
     )
     (pin "1" (uuid 24e4d12a-6ba0-459d-8167-36568d57e45a))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR015") (unit 1)
         )
@@ -1790,7 +1790,7 @@
     (pin "1" (uuid b298053e-85ed-4570-8016-faa05cfb48c3))
     (pin "2" (uuid ad5719d8-2947-429e-b389-08a9bb8c128b))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "C3") (unit 1)
         )
@@ -1815,7 +1815,7 @@
     )
     (pin "1" (uuid b0195a4f-ad99-461a-a43d-d4036db8e7e6))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR011") (unit 1)
         )
@@ -1841,7 +1841,7 @@
     (pin "1" (uuid 0e43f2c8-fa9f-4564-b6e5-e3e41a78fc78))
     (pin "2" (uuid e9e4f498-1966-4e81-ae93-7554464577eb))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "R4") (unit 1)
         )
@@ -1866,7 +1866,7 @@
     )
     (pin "1" (uuid 82ff2a24-960c-467e-bc9e-f358e4cc0557))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR017") (unit 1)
         )
@@ -1891,7 +1891,7 @@
     )
     (pin "1" (uuid b29a181e-dbc6-4c52-8dd4-e0aeec2163f6))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR020") (unit 1)
         )
@@ -1917,7 +1917,7 @@
     (pin "1" (uuid 1b322af8-3232-429e-8a98-9b30462b98ff))
     (pin "2" (uuid f260dd67-55b6-4d7c-85e8-b5726d3bd658))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "C10") (unit 1)
         )
@@ -1946,7 +1946,7 @@
     (pin "4" (uuid e70eaa21-f7a3-419a-a4e4-b41b608f148d))
     (pin "5" (uuid 523374b8-6026-4e5b-bac1-00fd324d0144))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "U2") (unit 1)
         )
@@ -1971,7 +1971,7 @@
     )
     (pin "1" (uuid 31f1cef2-a52b-49f5-af47-714c519d5525))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR016") (unit 1)
         )
@@ -1996,7 +1996,7 @@
     )
     (pin "1" (uuid 7c7d0a31-cf29-4b67-aee2-102c7d002fa8))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR013") (unit 1)
         )
@@ -2021,7 +2021,7 @@
     )
     (pin "1" (uuid a9341077-15f9-43fe-907c-bb4c3cdb3a65))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR019") (unit 1)
         )
@@ -2046,7 +2046,7 @@
     )
     (pin "1" (uuid 51ab1c18-911b-42a7-bad5-58a960406a27))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR018") (unit 1)
         )
@@ -2094,7 +2094,7 @@
     (pin "8" (uuid 64c571aa-8cbc-435c-b4f7-4bbd302fec72))
     (pin "9" (uuid b7153f2c-984b-4ca3-a1db-6b0d7eb283f1))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "J1") (unit 1)
         )
@@ -2120,7 +2120,7 @@
     (pin "1" (uuid ee326c6a-6ed5-4be9-99c8-846f79438bac))
     (pin "2" (uuid ca36b7c1-1d55-427b-9959-a77535e4047b))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "D2") (unit 1)
         )
@@ -2145,7 +2145,7 @@
     )
     (pin "1" (uuid c2fd1df9-8e76-481d-9e33-bfb1af5066f4))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR08") (unit 1)
         )
@@ -2171,7 +2171,7 @@
     (pin "1" (uuid 0e3f120b-0d15-49ba-b812-67ea0c43bea1))
     (pin "2" (uuid 799f78c5-e19d-4753-a0d5-12cf41a54aaa))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "C7") (unit 1)
         )
@@ -2196,7 +2196,7 @@
     )
     (pin "1" (uuid 101de29b-799f-43c9-b232-95386368f213))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR07") (unit 1)
         )
@@ -2221,7 +2221,7 @@
     )
     (pin "1" (uuid 1e7cca7a-7dec-485b-a6cf-f361dc7cea9b))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR06") (unit 1)
         )
@@ -2261,7 +2261,7 @@
     (pin "8" (uuid 9a86566a-c245-413d-b0ab-798630ef18a7))
     (pin "9" (uuid 11c362a3-e83f-46f3-abdf-5bd8f86b83a7))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "U1") (unit 1)
         )
@@ -2287,7 +2287,7 @@
     (pin "1" (uuid 33d51150-d22e-452f-9418-e6c0a092864e))
     (pin "2" (uuid d89c5595-6ba8-431c-a4dd-a034f8c6b621))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "C9") (unit 1)
         )
@@ -2313,7 +2313,7 @@
     (pin "1" (uuid 9b5419ba-19c8-4511-8e60-6eab01c62b40))
     (pin "2" (uuid cfd1cafd-1bbe-4857-acce-4a19e909eed7))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "D3") (unit 1)
         )
@@ -2339,7 +2339,7 @@
     (pin "1" (uuid c67ae794-bda3-4405-8083-25f8bbbc69cb))
     (pin "2" (uuid 2e14917a-c6dd-4dc9-bfc0-458cb9b45348))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "C2") (unit 1)
         )
@@ -2364,7 +2364,7 @@
     )
     (pin "1" (uuid dfad804a-518a-44b5-92bb-1085186e08aa))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR09") (unit 1)
         )
@@ -2389,7 +2389,7 @@
     )
     (pin "1" (uuid 0e6178c5-b2bd-4ca8-9bb2-38f4650fd87e))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR05") (unit 1)
         )
@@ -2416,7 +2416,7 @@
     (pin "2" (uuid 1e71f422-ac48-4738-b731-87924e2340d5))
     (pin "3" (uuid 67aaefb3-5648-4c1e-b059-32c523422acb))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "Q2") (unit 1)
         )
@@ -2441,7 +2441,7 @@
     )
     (pin "1" (uuid f39d443b-9127-4af8-9ab4-20aa3abeffff))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR01") (unit 1)
         )
@@ -2467,7 +2467,7 @@
     (pin "1" (uuid fb542dde-14a5-4275-aad5-31d4ce0f7807))
     (pin "2" (uuid 27ca79fa-e307-4a0a-846b-d1e1c7f3c73d))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "C5") (unit 1)
         )
@@ -2494,7 +2494,7 @@
     (pin "2" (uuid 672249ac-acfd-4ef8-b74f-92527727771e))
     (pin "3" (uuid 1caee39e-df50-47d4-9082-a3c5db5e7a43))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "U3") (unit 1)
         )
@@ -2519,7 +2519,7 @@
     )
     (pin "1" (uuid 309b289c-aa10-46cb-b398-11b2cc8bd9f9))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR02") (unit 1)
         )
@@ -2544,7 +2544,7 @@
     )
     (pin "1" (uuid 570e56a9-6bc9-4878-802e-64e8ce3ee333))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR03") (unit 1)
         )
@@ -2569,7 +2569,7 @@
     )
     (pin "1" (uuid 52cc9b6a-cd25-4497-ad22-ebafe278b47d))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR022") (unit 1)
         )
@@ -2595,7 +2595,7 @@
     (pin "1" (uuid 64f91fe9-8dbf-4e83-9e45-7ee2881d967a))
     (pin "2" (uuid 77cbafd1-58a2-4489-b88c-e7e1dbf8ca2f))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "C1") (unit 1)
         )
@@ -2620,7 +2620,7 @@
     )
     (pin "1" (uuid 7f935f96-af25-4123-9f4b-95f2231e7dc7))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR04") (unit 1)
         )
@@ -2646,7 +2646,7 @@
     (pin "1" (uuid 00b6945b-691d-4c18-8fde-1da57951a16c))
     (pin "2" (uuid 9709b043-9801-4e99-8b6b-b1449a9a92c7))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "D1") (unit 1)
         )
@@ -2672,7 +2672,7 @@
     (pin "1" (uuid 35ea63ee-0815-4f4e-90bb-608f505f8f27))
     (pin "2" (uuid 067bd054-4651-4c0a-a285-a0978bdb86d1))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "C4") (unit 1)
         )
@@ -2698,7 +2698,7 @@
     (pin "1" (uuid 8aa01f73-d77c-4833-a914-22ef7e0275e0))
     (pin "2" (uuid d40c1879-4e13-4863-89b6-1d42ec322c1e))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "R3") (unit 1)
         )
@@ -2724,7 +2724,7 @@
     (pin "1" (uuid 218c6d8a-81c1-43ab-9108-3f4ae5204813))
     (pin "2" (uuid 4244a1dd-cd51-407b-825e-626970c7f92a))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "L1") (unit 1)
         )
@@ -2749,7 +2749,7 @@
     )
     (pin "1" (uuid 7d666b12-5488-4ea1-9162-66b5fbd0d46a))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR012") (unit 1)
         )
@@ -2774,7 +2774,7 @@
     )
     (pin "1" (uuid 5a27c2cc-8945-4095-8ace-40ec4d81da8d))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR014") (unit 1)
         )
@@ -2799,7 +2799,7 @@
     )
     (pin "1" (uuid bc2c8a0b-6d1d-42c5-b9cf-b277bc8cce97))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "#PWR021") (unit 1)
         )
@@ -2826,7 +2826,7 @@
     (pin "2" (uuid 7ac3d03f-1034-4d4d-b040-f57f4de61f78))
     (pin "3" (uuid e212de4f-c806-4882-be14-bda381c4a2d3))
     (instances
-      (project "esp32"
+      (project "SuperMini-EPD-Sheild"
         (path "/6bf248a1-6660-436d-9949-f094bcea6853"
           (reference "Q1") (unit 1)
         )
